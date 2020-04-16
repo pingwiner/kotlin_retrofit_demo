@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Авторизация</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Электронная почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="invalid_username">Недопустимый email</string>
+    <string name="invalid_password">Недопустимый пароль</string>
+    <string name="login_failed">Ошибка входа</string>
+    <string name="create">Создать</string>
+    <string name="todo">TODO</string>
+    <string name="error_message">Ошибка сервера</string>
+</resources>
